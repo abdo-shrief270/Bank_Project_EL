@@ -1,0 +1,2 @@
+from adminFunctions import *
+mainWindow()

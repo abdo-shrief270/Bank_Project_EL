@@ -1,0 +1,8 @@
+215321701332||Ahmed Abdelrazek Mohamed||0001||504900||3||t
+203659302214||Salma Mohamed Foaad||2345||520001||3||t
+126355700193||Adel Khaled Abdelrahman||1214||111000||3||t
+201455998011||Saeed Amin Elsawy||2001||1200||3||t
+201122369851||Amir Salama Elgendy||8935||178933||3||t
+201356788002||Wael Mohamed Khairy||3420||55000||3||t
+203366789564||Mina Sameh Bishoy||1179||18000||3||t
+201236787812||Omnia Ahmed Awad||1430||180350||3||t

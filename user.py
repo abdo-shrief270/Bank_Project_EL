@@ -1,0 +1,2 @@
+from userFunctions import *
+mainWindow()
